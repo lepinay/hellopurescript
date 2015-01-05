@@ -1,0 +1,19 @@
+{
+  "name": "hellopurescript",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lepinay/hellopurescript",
+  "authors": [
+    "Lepinay Laurent <lepinay@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-math": "0.1.0"
+  }
+}
